@@ -1,7 +1,7 @@
 ﻿//==========================================================
-// Student Number	: S10259224
-// Student Name	: Kerwin Li
-// Partner Name	: Ser Hao
+// Student Number	: S102677555
+// Student Name	: Ser Hao
+// Partner Name	: Kerwin Li
 //==========================================================
 
 using Assignment01;

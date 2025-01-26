@@ -3,12 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+//=====================================================
+// Student Number	: S102677555
+// Student Name	: Ser Hao
+// Partner Name	: Kerwin Li
 //==========================================================
-// Student Number	: S10259224
-// Student Name	: Kerwin Li
-// Partner Name	: Ser Hao
-//==========================================================
-
 namespace Assignment01
 {
     public class LWTTFlight : Flight

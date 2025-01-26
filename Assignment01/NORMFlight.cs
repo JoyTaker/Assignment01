@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//==========================================================
-// Student Number	: S10259224
-// Student Name	: Kerwin Li
-// Partner Name	: Ser Hao
+
+//=====================================================
+// Student Number	: S102677555
+// Student Name	: Ser Hao
+// Partner Name	: Kerwin Li
 //==========================================================
 
 namespace Assignment01

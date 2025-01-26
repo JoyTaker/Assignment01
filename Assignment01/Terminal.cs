@@ -3,12 +3,11 @@ using System;
 using System.Collections.Generic;
 using Assignment01;
 
+=====================================================
+// Student Number	: S102677555
+// Student Name	: Ser Hao
+// Partner Name	: Kerwin Li
 //==========================================================
-// Student Number	: S10259224
-// Student Name	: Kerwin Li
-// Partner Name	: Ser Hao
-//==========================================================
-
 public class Terminal
 {
     public string TerminalName { get; set; }

@@ -4,6 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//=====================================================
+// Student Number	: S102677555
+// Student Name	: Ser Hao
+// Partner Name	: Kerwin Li
+//==========================================================
+
 namespace Assignment01
 {
     public class BoardingGate
